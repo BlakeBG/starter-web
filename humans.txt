@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Blake	blake@codium.biz	@blake
 
 # THANKS
 
