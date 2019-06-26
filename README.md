@@ -22,4 +22,4 @@ Please fork this repository and then issue Pull request review
 
 ### Copyright
 
-2019 GIT
+2019 GIT. All rights reserved.
